@@ -4,3 +4,10 @@ An inventory management system application designed to efficiently track, organi
 
 ### New Import Request 
 ![Screenshot](import.png)
+
+### Requests Status 
+![Screenshot](request-status-page.png)
+
+
+### All Requests
+![Screenshot](request.png)
