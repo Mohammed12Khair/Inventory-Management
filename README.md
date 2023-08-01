@@ -11,3 +11,6 @@ An inventory management system application designed to efficiently track, organi
 
 ### All Requests
 ![Screenshot](request.png)
+
+### Request Flow
+![Screenshot](flow.png)
